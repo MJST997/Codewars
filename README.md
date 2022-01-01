@@ -12,4 +12,4 @@ Sum of Odd numbers [GitHub](https://github.com/MJST997/Codewars/blob/main/Java/s
 ## Python 
 
 ### kata 5 
-Buddy pairs [Git Hub]() | [Codewars](https://www.codewars.com/kata/59ccf051dcc4050f7800008f/python)
+Buddy pairs [Git Hub](https://github.com/MJST997/Codewars/blob/main/Python/buddy_pairs.ipynb) | [Codewars](https://www.codewars.com/kata/59ccf051dcc4050f7800008f/python)
